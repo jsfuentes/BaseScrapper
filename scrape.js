@@ -1,7 +1,7 @@
 const
   conf = require('./config.js'),
   C = require('./constants.js'),
-  utils = require('./utils.js');
+  utils = require('./utils/utils.js');
   
 module.exports = class Jscrape {
   constructor(key, headless, secrets) {

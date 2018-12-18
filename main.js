@@ -1,7 +1,7 @@
 const
   conf = require('./config.js'),
   Jscrape = require('./scrape.js'),
-  utils = require('./utils.js');
+  utils = require('./utils/utils.js');
 
 //SAMPLE USAGE OF JScrape
 async function main(headless=true) {

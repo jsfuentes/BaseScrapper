@@ -1,5 +1,5 @@
 const
-  utils = require('./utils.js');
+  utils = require('./utils/utils.js');
 
 function addDateToDoc(d) {
   var date = new Date();

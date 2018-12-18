@@ -1,6 +1,6 @@
 const
   conf = require('./config.js'),
-  utils = require('./utils.js'),
+  utils = require('./utils/utils.js'),
   jscrape = require('./scrape.js');
 
 ///////////////////////

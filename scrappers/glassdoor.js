@@ -3,7 +3,7 @@
 const
   puppeteer = require('puppeteer'),
   Scrapper = require('./base.js'),
-  utils = require('../utils.js');
+  utils = require('../utils/utils.js');
 
 const GLASSDOOR_BASE_URL = "https://www.glassdoor.com/";
 
